@@ -36,6 +36,7 @@ This repository contains a CRUD application for managing customers. The backend 
 - React.js
 - Bootstrap
 - ![Screenshot (131)](https://github.com/Deepakkr3/test/assets/115481021/171e104c-d879-4730-a94b-9f7400974831)
+- ![Screenshot (132)](https://github.com/Deepakkr3/test/assets/115481021/10ee6b38-bfb6-41ec-be46-22e8f881cdfd)
 
 ## API Reference
 
