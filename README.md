@@ -2,6 +2,7 @@
 # Project Title
 
 This repository contains a CRUD application for managing customers. The backend is built with Spring Boot and MySQL, featuring JWT token-based authentication. The frontend is integrated using HTML, CSS, JavaScript, React.js, and Bootstrap, allowing users to interact with the backend APIs.
+![Screenshot (130)](https://github.com/Deepakkr3/test/assets/115481021/d68deb87-3332-4286-b994-9c00d796d9d5)
 
 
 ## Features
