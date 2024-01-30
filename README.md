@@ -21,6 +21,7 @@ This repository contains a CRUD application for managing customers. The backend 
 - Spring Boot
 - MySQL
 - JWT Authentication
+- ![Screenshot (130)](https://github.com/Deepakkr3/test/assets/115481021/d68deb87-3332-4286-b994-9c00d796d9d5)
 
 ### Installation and Setup
 1. Clone the repository
@@ -34,6 +35,7 @@ This repository contains a CRUD application for managing customers. The backend 
 - JavaScript
 - React.js
 - Bootstrap
+- ![Screenshot (131)](https://github.com/Deepakkr3/test/assets/115481021/171e104c-d879-4730-a94b-9f7400974831)
 
 ## API Reference
 
